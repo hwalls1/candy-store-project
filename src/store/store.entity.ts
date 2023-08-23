@@ -4,7 +4,7 @@ import { Entity, Column, PrimaryGeneratedColumn } from 'typeorm';
 @Entity()
 export class Store {
   @PrimaryGeneratedColumn()
-  @IsNumber()
+  //@IsNumber()
   @IsNotEmpty()
   store_id: number;
 

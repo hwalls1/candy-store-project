@@ -6,7 +6,7 @@ import {
   JoinColumn,
 } from 'typeorm';
 import { Customer } from './customer.entity';
-import { Store } from './store.entity';
+import { Store } from '../../store/store.entity';
 import { IsNumber, IsNotEmpty } from '@nestjs/class-validator';
 
 @Entity()
