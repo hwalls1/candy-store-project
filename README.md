@@ -1,8 +1,5 @@
-## NestJS take-home Boilerplate
+## Candy Store Project
 
-The idea of this repository is to have a boilerplate to take as reference for a NestJS API. 
-You're free to use it as you want.
-If you have any question, please contact me at hung.do@traderinteractive.com
 
 ## Description
 
